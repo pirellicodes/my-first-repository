@@ -1,4 +1,4 @@
 # README #
 
-Diddly
+Launch school practicing
 
